@@ -9,8 +9,7 @@ Jupyter notebooks, and practical datasets.
 
 ## Course Structure
 - **Syllabus**: Official course outline and weekly plan  
-- **Lectures**: PDF lecture notes and Jupyter notebooks  
-- **Datasets**: Example datasets used in demonstrations and assignments  
+- **Lectures**: PDF lecture notes and Jupyter notebooks   
 
 Some lecture notes may cover more than one week depending on the course pace.
 
