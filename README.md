@@ -1,6 +1,6 @@
-# Probability and Statistics
-
 ![Course Poster](Poster_Probability_Statistics.png)
+
+# Probability and Statistics
 
 ## Course Overview
 This course provides an applied introduction to probability and statistics for engineering students. 
